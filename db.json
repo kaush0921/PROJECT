@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "email": "kdskls@hammsi.com",
+      "password": "ffwefwfe",
+      "id": 1
+    },
+    {
+      "email": "kaushiksahoo562@gmail.com",
+      "password": "mn nm n ",
+      "id": 2
+    },
+    {
+      "email": "kaushiksahoo562@gmail.com",
+      "password": "mn nm n ",
+      "id": 3
+    }
+  ],
+  "login": [
+    {
+      "email": "k@gamil.com",
+      "password": "deerre",
+      "id": 1
+    },
+    {
+      "email": "k@gamil.com",
+      "password": "deerre",
+      "id": 2
+    },
+    {
+      "email": "k@gamil.com",
+      "password": "deerre",
+      "id": 3
+    }
+  ]
+}
